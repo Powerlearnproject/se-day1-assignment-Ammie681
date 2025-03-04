@@ -109,13 +109,19 @@ Software Engineering Day1 Assignment
   **Quality Assurance (QA) Engineer:**
   
 •	Ensures software quality by conducting tests (unit, integration, regression).
+
 •	Reports bugs and ensures they are fixed before release.
+
 •	Automates testing where possible to improve efficiency.
+
   **Project Manager**:
   
 •	Oversees project timelines, budgets, and team coordination.
+
 •	Communicates with stakeholders and ensures project requirements are met.
+
 •	Manages risks and resolves challenges in development.
+
 
 ## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
